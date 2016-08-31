@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Creating a new branch is very quick and simple
+aaaa
 =======
 Creating a new branch is quick and simple
 >>>>>>> feature1
